@@ -1,1 +1,2 @@
-# chatgpt-on-gdocs
+# ChatGPT API Integration with Google Docs
+This integration will allow users to access the ChatGPT API from within the Google Docs platform, generating text content without having to leave the platform. Users can select the content they want to generate text for and then call the API using a custom add-on. The ChatGPT API will generate the text, which will be inserted into the selected content of the Google Docs document.
